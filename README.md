@@ -1,3 +1,11 @@
+To run this successfully on your local machine, you will need the following packages and and c ativities done.
+requirements.txt:
+  asgiref==3.8.1
+  Django==5.1.1
+  sqlparse==0.5.1
+  tzdata==2024.2
+
+
 activate virtual environment
   command: venv/scripts/activate
 
