@@ -1,4 +1,8 @@
-To run this successfully on your local machine, you will need the following packages and and c ativities done.
+This django project comes with a functionally online note taking website that uses css and html code. The website comes with a registration page and login page for users to setup their own account for personal use.
+I can guarantee no viruses in this zip file 👍👍😎😎
+
+
+To run this successfully on your local machine, you will need the following packages and and  activities done.
 requirements.txt:
   asgiref==3.8.1
   Django==5.1.1
@@ -8,6 +12,9 @@ requirements.txt:
 
 activate virtual environment
   command: venv/scripts/activate
+
+download django
+  command: pip install django
 
 change directory to main project
   command: cd Enotes_System
